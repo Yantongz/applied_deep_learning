@@ -1,0 +1,10 @@
+Implementation
+(I use 196 features, train for 200 epochs.)
+
+Hw6_gan.py: define model architecture for generator, discriminator.
+Hw6_func.py: additional helper functions given in the tutorial.
+Hw6_disc_wo_gen.py & Hw6_p1.py: train the disc models in part 1 without or with generator.
+
+Hw6_p2.py: part 2 Perturb real images 
+Hw6_p2_2.py: part 2 Synthetic Images Maximizing Classification Output
+Hw6_p2_3.py: part 2 Synthetic Features Maximizing Features at 4,8 Layers
